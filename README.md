@@ -70,7 +70,7 @@ I have created main 3 java files to create this android app. I have created Main
 
 <div align="center">
   
-<a href="pics/sw1.jpeg"><img src="pics/sw1.jpeg" width="250" height= "450"></a> <a href="pics/sw2.jpeg"><img src="pics/sw2.jpeg" width="250" height= "450"></a> <a href="pics/sw3.jpeg"><img src="pics/sw3.jpeg" width="250" height= "450"></a>
+<a href="pics/sw.jpeg"><img src="pics/sw.jpeg" width="250" height= "450"></a> <a href="pics/sw1.jpeg"><img src="pics/sw1.jpeg" width="250" height= "450"></a> <a href="pics/sw2.jpeg"><img src="pics/sw2.jpeg" width="250" height= "450"></a>
        
 </div>
 
