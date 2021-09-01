@@ -36,7 +36,7 @@ A stopwatch is a timepiece designed to measure the amount of time that elapses b
 
 <div align="justified">
        
-I have made this brain trainer android application for people of any ages for checking their speed and attentiveness.
+I have made stopwatch android application for measuring time for any purpose. Stopwatches and timers are instruments used to measure time interval, which is defined as the elapsed time between two events.
 </div>
        
 ## Importance :point_down:
