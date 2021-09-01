@@ -49,20 +49,19 @@ The device is used when time periods need to be measured precisely and with mini
 
 ## Folder Structure :point_down:
 ```bash
-brain-trainer-android-app
+stop-watch-android-app
       └── app
            └── src
                 └── main
-                      └── java/com/example/braintrainer
+                      └── java/com/example/stopwatch
                                      ├── MainActivity.java
-                                     ├── gointent.java
-                                     └── splashscreen.java   
+                                     └── Stopwatch.java   
  ```                      
 ## Making :point_down:
 
 <div align="justified">
 
-I have created main 3 java files to create this android app. I have created MainActivity.java, gointent.java, splashscreen.java and created some logics for implementation of this app. 
+I have created main 3 java files to create this android app. I have created MainActivity.java, Stopwatch.java and created some logics for implementation of this app. 
  
 </div>
 
@@ -71,9 +70,7 @@ I have created main 3 java files to create this android app. I have created Main
 
 <div align="center">
   
-<a href="pics/bt1.jpeg"><img src="pics/bt1.jpeg" width="250" height= "450"></a> <a href="pics/bt2.jpeg"><img src="pics/bt2.jpeg" width="250" height= "450"></a> <a href="pics/bt3.jpeg"><img src="pics/bt3.jpeg" width="250" height= "450"></a>
- 
-<a href="pics/bt4.jpeg"><img src="pics/bt4.jpeg" width="250" height= "450"></a> <a href="pics/bt5.jpeg"><img src="pics/bt5.jpeg" width="250" height= "450"></a> <a href="pics/bt6.jpeg"><img src="pics/bt6.jpeg" width="250" height= "450"></a>
+<a href="pics/sw1.jpeg"><img src="pics/sw1.jpeg" width="250" height= "450"></a> <a href="pics/sw2.jpeg"><img src="pics/sw2.jpeg" width="250" height= "450"></a> <a href="pics/sw3.jpeg"><img src="pics/sw3.jpeg" width="250" height= "450"></a>
        
 </div>
 
