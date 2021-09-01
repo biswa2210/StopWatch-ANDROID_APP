@@ -14,7 +14,7 @@
 <a href="https://github.com/biswa2210/biswa2210" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="" height="30" width="40" /></a>
 </p>
 
-## What is StopWath :point_down: 
+## What is StopWatch :point_down: 
 
 <div align="justified">
  
@@ -26,7 +26,7 @@ A stopwatch is a timepiece designed to measure the amount of time that elapses b
 
 <div align="justified">
  
- 
+This is a simple stopwatch android application created using java. Here when we open the app we have to click on 'GET STARTED'. Then we can see a timer at 00.00. If we click on 'START NOW' then the timer will be started. If we click on 'FINISH NOW' then the timer will be stopped. This is a very user friendly stopwatch. It can be used for multiple types of task as per user's need.
 
 </div>
 
