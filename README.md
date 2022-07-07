@@ -30,7 +30,7 @@ This is a simple stopwatch android application created using java. Here when we 
 
 </div>
 
-## APP DOWNLOAD LINK : :point_right: <a href="https://drive.google.com/file/d/1jl0qT5f1I0NvjtioYPL64MoDrofmP0UT/view" download>Click here to download</a>
+## APP DOWNLOAD LINK : :point_right: <a href="https://drive.google.com/file/d/1pogbiexC2r4se14qlqbbaxkgMSs73WYw/view" download>Click here to download</a>
 
 ## Purpose :point_down:
 
