@@ -30,6 +30,10 @@ This is a simple stopwatch android application created using java. Here when we 
 
 </div>
 
+## STOP WATCH DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=fgxUX_dkf8s&list=PL0lbDlMJ1h4hiR-xQJTPRijsOF1-0hhAG&index=2&t=2s">Click here to watch</a>
+
+## ANDROID PLAYLIST: :point_right: <a href="https://www.youtube.com/watch?v=Jfq38C1hKXs&list=PL0lbDlMJ1h4hiR-xQJTPRijsOF1-0hhAG">Click here to watch</a>
+
 ## APP DOWNLOAD LINK : :point_right: <a href="https://drive.google.com/file/d/1pogbiexC2r4se14qlqbbaxkgMSs73WYw/view" download>Click here to download</a>
 
 ## Purpose :point_down:
